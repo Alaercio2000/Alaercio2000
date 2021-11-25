@@ -46,6 +46,16 @@ Sou Alaercio Vieira, Desenvolvedor Fullstack.
 <div>
   <img title="MySQL" height="70" width="80" align="center" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"/>
   <img title="mongoDB" height="60" width="80" align="center" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg"/>
+</div><hr>
+   
+### Outras
+    
+<div>
+  <img title="TypeScript" height="60" width="80" align="center" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"/>
+  <img title="Git" height="70" width="80" align="center" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg"/>
+  <img title="GitHub" height="70" width="80" align="center" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg"/>
+  <img title="Bash" height="70" width="80" align="center" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg"/>
+  <img title="Servidores Linux" height="70" width="80" align="center" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"/>
 </div>
     
     
