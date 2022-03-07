@@ -28,7 +28,6 @@ Sou Alaercio Vieira, Desenvolvedor Fullstack.
   <img title="CSS3" height="50" width="60" align="center" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"/>
   <img title="JavaScript" height="50" width="60" align="center" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
   <img title="ReactJs" height="50" width="60" align="center" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"/>
-  <img title="TypeScript" height="50" width="60" align="center" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"/>
   <img title="Bootstrap" height="50" width="60" align="center" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg"/>
 </div><hr>
     
