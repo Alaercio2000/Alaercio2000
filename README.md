@@ -28,7 +28,7 @@ Sou Alaercio Vieira, Desenvolvedor Fullstack no Estadão.
   <img title="CSS3" height="50" width="60" align="center" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"/>
   <img title="JavaScript" height="50" width="60" align="center" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
   <img title="ReactJs" height="50" width="60" align="center" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"/>
-  <img title="Tailwind" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
+  <img title="Tailwind" height="50" width="50" align="center" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" />
   <img title="Bootstrap" height="50" width="60" align="center" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg"/>
 </div><hr>
     
