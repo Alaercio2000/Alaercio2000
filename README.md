@@ -17,7 +17,7 @@ Sou Alaercio Vieira, Desenvolvedor Fullstack no Estadão.
   
   <div>
     <img title="PHP" height="60" width="70" align="center" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"/>
-    <img title="Laravel" height="50" width="70" align="center" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg"/>
+    <img title="Laravel" height="50" width="70" align="center" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-line-wordmark.svg"/>
     <img title="NodeJs" height="70" width="70" align="center" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"/>
   </div><hr>
     
@@ -28,7 +28,8 @@ Sou Alaercio Vieira, Desenvolvedor Fullstack no Estadão.
   <img title="CSS3" height="50" width="60" align="center" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"/>
   <img title="JavaScript" height="50" width="60" align="center" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
   <img title="ReactJs" height="50" width="60" align="center" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"/>
-  <img title="Bootstrap" height="50" width="60" align="center" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg"/>
+  <img title="Tailwind" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
+  <img title="Bootstrap" height="50" width="60" align="center" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg"/>
 </div><hr>
     
 ### Mobile
